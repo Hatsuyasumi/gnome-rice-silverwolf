@@ -1,4 +1,4 @@
-# My Silver Wolf Rice Setup
+# Silver Wolf Rice Setup
 
 ### OS:
 - **Zorin OS 17.1**
