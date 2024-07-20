@@ -46,3 +46,4 @@
 - **QSTweak**
 
 ### Rice Showcase:
+![screenshot](silverwolfrice.png)
