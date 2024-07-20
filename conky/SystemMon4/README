@@ -1,0 +1,8 @@
+Thank you for checking out my conky system monitoring widget version 0.1 - beta. Im still somewhat new to coding conky widgets so i hope you find this usefull and ofcourse feel free to build on it to make it better!!
+
+You should unzip the SystemMon folder into your .conky folder which is found in your /home/username/ location or /root/.conky. I highly suggest using conky-manager 2 to run this and all conky widgets. It makes life so much easier in conky-verse!! Ive included a bash start-up & installation script if youd like to use it.
+
+Contact me:
+Email Morbidlogic@null.net
+Github https://github.com/Morbidlogic
+Opencode https://www.opencode.net/morbidlogic
