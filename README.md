@@ -1,5 +1,9 @@
 # Silver Wolf Rice Setup
 
+### Rice Showcase:
+![screenshot](silverwolfrice.png)
+
+
 ### OS:
 - **Zorin OS 17.1**
 
