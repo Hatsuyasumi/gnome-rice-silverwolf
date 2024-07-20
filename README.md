@@ -48,6 +48,3 @@
 - **Logo Menu**
 - **Open Bar**
 - **QSTweak**
-
-### Rice Showcase:
-![screenshot](silverwolfrice.png)
